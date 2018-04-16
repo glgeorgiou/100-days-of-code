@@ -8,7 +8,6 @@
 
 **Link to work:** [JavaScript - Repeat a string](https://www.freecodecamp.org/challenges/repeat-a-string-repeat-a-string)
 
-# 100 Days Of Code - Log
 
 ### Day 1: April 13, 2018
 
@@ -17,3 +16,12 @@
 **Thoughts:** I had quit for some time the 'Basic Algorithm Scripting' so, i continue.
 
 **Link to work:** [Find the longest word](https://www.freecodecamp.org/challenges/find-the-longest-word-in-a-string)
+
+
+### Day 2: April 16, 2018
+
+**Today's Progress**: I dealed with the reduce method 
+
+**Thoughts:** reduce() method seems little complicated i'd say.
+
+**Link to work:** [Return Largest Numbers in Arrays](https://www.freecodecamp.org/challenges/return-largest-numbers-in-arrays)
