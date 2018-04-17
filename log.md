@@ -25,3 +25,12 @@
 **Thoughts:** reduce() method seems little complicated i'd say.
 
 **Link to work:** [Return Largest Numbers in Arrays](https://www.freecodecamp.org/challenges/return-largest-numbers-in-arrays)
+
+
+### Day 3: April 17, 2018
+
+**Today's Progress**: Play with strings
+
+**Thoughts:** You can repeat a string with many basic or advanced ways. The 'FCC-basic-algorithm-sriptint-js-files.js' file uploaded consists of my js solutions in each algorithm script.
+
+**Link to work:** [Repeat a string n times](https://www.freecodecamp.org/challenges/repeat-a-string-repeat-a-string)
