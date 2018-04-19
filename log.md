@@ -36,7 +36,7 @@
 **Link to work:** [Repeat a string n times](https://www.freecodecamp.org/challenges/repeat-a-string-repeat-a-string)
 
 
-### Day 4: April 17, 2018
+### Day 4: April 19, 2018
 
 **Today's Progress**: Play with strings
 
