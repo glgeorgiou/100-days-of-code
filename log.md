@@ -43,3 +43,12 @@
 **Thoughts:** String truncation by a given lenght
 
 **Link to work:** [Truncate a string](https://www.freecodecamp.org/challenges/truncate-a-string)
+
+
+### Day 5: April 21, 2018
+
+**Today's Progress**: Play with a splited array.
+
+**Thoughts:** Split an array on chunks by a given lenght
+
+**Link to work:** [Chunk an array](https://www.freecodecamp.org/challenges/chunky-monkey)
