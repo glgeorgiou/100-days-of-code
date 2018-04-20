@@ -145,3 +145,17 @@ function truncateString(str, num) {
   }
   return mystr;
 }
+
+
+/*
+* Splits an array (first argument) into groups the length of size (second argument) and returns them as a two-dimensional array.
+* @param: an array and a number that is array's length
+* @return: a splited array
+*/
+function chunkArrayInGroups(arr, size) {
+  var newArray = [];
+  for(i=0; i<arr.length; i+=size) {
+    newArray.push(arr.slice(i, i+size));
+  }
+  return newArray;
+}
