@@ -52,3 +52,12 @@
 **Thoughts:** Split an array on chunks by a given lenght
 
 **Link to work:** [Chunk an array](https://www.freecodecamp.org/challenges/chunky-monkey)
+
+
+### Day 6: April 24, 2018
+
+**Today's Progress**: Buildign a UI for each algorithm project
+
+**Thoughts:** A code withouth a UI is not good. So, i started building ui for algorithm projects
+
+**Link to work:** [Reverse a string](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/basic-algorithm-scripting)
