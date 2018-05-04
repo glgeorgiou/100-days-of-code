@@ -61,3 +61,12 @@
 **Thoughts:** A code withouth a UI is not good. So, i started building ui for algorithm projects
 
 **Link to work:** [Reverse a string](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/basic-algorithm-scripting)
+
+
+### Day 7: May 4, 2018
+
+**Today's Progress**: UI and functionality Completion for the first algorithm project
+
+**Thoughts:** It actualy took me more than one day coding in order to solve bugs. This is the final commit for the specific project. Since i work with WordPress i thing that i'll continue WP theme coding for at least couple of weeks of coding and then i'll continue Free Code Camp projects. Stay tuned.
+
+**Link to work:** [Reverse a string](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/basic-algorithm-scripting)
