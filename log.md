@@ -44,3 +44,8 @@
 **Today's Progress**: Re-building from scratch the repository in GitHub.
 **Thoughts:** I'll continue to deal with only in Free Code Camp Projects
 **Link to work:** [Repository](https://github.com/glgeorgiou/100-days-of-code-projects/)
+
+### Day 14: May 11, 2018
+**Today's Progress**: Final UI for the reverse-a-string file.
+**Thoughts:** I'll continue to the UI for the next basic algorithm mini-projects.
+**Link to work:** [Repository](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/basic-algorithm-scripting)
