@@ -49,3 +49,9 @@
 **Today's Progress**: Final UI for the reverse-a-string file.
 **Thoughts:** I'll continue to the UI for the next basic algorithm mini-projects.
 **Link to work:** [Repository](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/basic-algorithm-scripting)
+
+
+### Day 10: May 14, 2018
+**Today's Progress**: A Bootstrap template to a WordPress Theme started project.
+**Thoughts:** (You reader" What? you supposed to continue in UI project and now you've started a new project?). Yes and that's why. I need to move deeply in WordPress theme development for my job. I follow a related course on Udemy and so i decided for the next couple of weeks to follow and develop this project. Afterwards, i'll continue to the FreeCodeCamp mini projects. Feel free to read the README.md file in the followin link.
+**Link to work:** [Repository Bootstrap2WordPress](https://github.com/glgeorgiou/bootstrap2wordpress)
