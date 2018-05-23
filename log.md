@@ -57,8 +57,12 @@
 **Link to work:** [Repository Bootstrap2WordPress](https://github.com/glgeorgiou/bootstrap2wordpress)
 
 
-
 ### Day 11: May 22, 2018
 **Today's Progress**: Styles and script associations in theme.
 **Thoughts:** Header.php, footer.php and theme style customization.
+**Link to work:** [Repository Bootstrap2WordPress](https://github.com/glgeorgiou/bootstrap2wordpress)
+
+### Day 12: May 23, 2018
+**Today's Progress**: Starting the page template.
+**Thoughts:** Static content of the template added and dynamically show the hero section. Custom fields additions.
 **Link to work:** [Repository Bootstrap2WordPress](https://github.com/glgeorgiou/bootstrap2wordpress)
