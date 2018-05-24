@@ -66,3 +66,8 @@
 **Today's Progress**: Starting the page template.
 **Thoughts:** Static content of the template added and dynamically show the hero section. Custom fields additions.
 **Link to work:** [Repository Bootstrap2WordPress](https://github.com/glgeorgiou/bootstrap2wordpress)
+
+### Day 13: May 24, 2018
+**Today's Progress**: Dynamic sections in front page.
+**Thoughts:** Dynamic content using Advacned Custom fields plugin and code.
+**Link to work:** [Repository Bootstrap2WordPress](https://github.com/glgeorgiou/bootstrap2wordpress)
