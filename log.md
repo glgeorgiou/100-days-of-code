@@ -56,7 +56,6 @@
 **Thoughts:** (You reader" What? you supposed to continue in UI project and now you've started a new project?). Yes and that's why. I need to move deeply in WordPress theme development for my job. I follow a related course on Udemy and so i decided for the next couple of weeks to follow and develop this project. Afterwards, i'll continue to the FreeCodeCamp mini projects. Feel free to read the README.md file in the followin link.
 **Link to work:** [Repository Bootstrap2WordPress](https://github.com/glgeorgiou/bootstrap2wordpress)
 
-
 ### Day 11: May 22, 2018
 **Today's Progress**: Styles and script associations in theme.
 **Thoughts:** Header.php, footer.php and theme style customization.
@@ -70,4 +69,9 @@
 ### Day 13: May 24, 2018
 **Today's Progress**: Dynamic sections in front page.
 **Thoughts:** Dynamic content using Advacned Custom fields plugin and code.
+**Link to work:** [Repository Bootstrap2WordPress](https://github.com/glgeorgiou/bootstrap2wordpress)
+
+### Day 14: May 29, 2018
+**Today's Progress**: Dynamic sections in front page.
+**Thoughts:** Dynamic content using Advacned Custom fields plugin and code for two more sections.
 **Link to work:** [Repository Bootstrap2WordPress](https://github.com/glgeorgiou/bootstrap2wordpress)
