@@ -75,3 +75,9 @@
 **Today's Progress**: Dynamic sections in front page.
 **Thoughts:** Dynamic content using Advacned Custom fields plugin and code for two more sections.
 **Link to work:** [Repository Bootstrap2WordPress](https://github.com/glgeorgiou/bootstrap2wordpress)
+
+
+### Day 15: May 30, 2018
+**Today's Progress**: Finilize of front page.
+**Thoughts:** Using the get_template_part() function to access the sections of home page.
+**Link to work:** [Repository Bootstrap2WordPress](https://github.com/glgeorgiou/bootstrap2wordpress)
