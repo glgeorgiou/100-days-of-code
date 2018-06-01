@@ -81,3 +81,9 @@
 **Today's Progress**: Finilize of front page.
 **Thoughts:** Using the get_template_part() function to access the sections of home page.
 **Link to work:** [Repository Bootstrap2WordPress](https://github.com/glgeorgiou/bootstrap2wordpress)
+
+
+### Day 16: June 1, 2018
+**Today's Progress**: Resources Template page.
+**Thoughts:** Resources template page with custom fields.
+**Link to work:** [Repository Bootstrap2WordPress](https://github.com/glgeorgiou/bootstrap2wordpress)
