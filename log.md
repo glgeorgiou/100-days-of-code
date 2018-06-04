@@ -87,3 +87,8 @@
 **Today's Progress**: Resources Template page.
 **Thoughts:** Resources template page with custom fields.
 **Link to work:** [Repository Bootstrap2WordPress](https://github.com/glgeorgiou/bootstrap2wordpress)
+
+### Day 17: June 4, 2018
+**Today's Progress**: Blog Template pages.
+**Thoughts:** Adding and customizing the blog templates
+**Link to work:** [Repository Bootstrap2WordPress](https://github.com/glgeorgiou/bootstrap2wordpress)
