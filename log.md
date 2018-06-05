@@ -92,3 +92,8 @@
 **Today's Progress**: Blog Template pages.
 **Thoughts:** Adding and customizing the blog templates
 **Link to work:** [Repository Bootstrap2WordPress](https://github.com/glgeorgiou/bootstrap2wordpress)
+
+### Day 18: June 5, 2018
+**Today's Progress**: Contact form templage page.
+**Thoughts:** Adding the contact form page using a new template page
+**Link to work:** [Repository Bootstrap2WordPress](https://github.com/glgeorgiou/bootstrap2wordpress)
