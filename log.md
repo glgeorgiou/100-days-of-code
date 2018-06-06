@@ -97,3 +97,8 @@
 **Today's Progress**: Contact form templage page.
 **Thoughts:** Adding the contact form page using a new template page
 **Link to work:** [Repository Bootstrap2WordPress](https://github.com/glgeorgiou/bootstrap2wordpress)
+
+### Day 19: June 6, 2018
+**Today's Progress**: Footer and 404 pages with widgets.
+**Thoughts:** Adding widgets to display in 404 page and a new menu in footer section.
+**Link to work:** [Repository Bootstrap2WordPress](https://github.com/glgeorgiou/bootstrap2wordpress)
