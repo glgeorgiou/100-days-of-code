@@ -102,3 +102,9 @@
 **Today's Progress**: Footer and 404 pages with widgets.
 **Thoughts:** Adding widgets to display in 404 page and a new menu in footer section.
 **Link to work:** [Repository Bootstrap2WordPress](https://github.com/glgeorgiou/bootstrap2wordpress)
+
+
+### Day 20: June 7, 2018
+**Today's Progress**: The site is live on server
+**Thoughts:** The site is live on https://b2w.ggeorgiou.work/ . There some some bugs that must be fixed in order to be a complete website.
+**Link to work:** [Repository Bootstrap2WordPress](https://github.com/glgeorgiou/bootstrap2wordpress)
