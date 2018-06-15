@@ -103,8 +103,13 @@
 **Thoughts:** Adding widgets to display in 404 page and a new menu in footer section.
 **Link to work:** [Repository Bootstrap2WordPress](https://github.com/glgeorgiou/bootstrap2wordpress)
 
-
 ### Day 20: June 7, 2018
 **Today's Progress**: The site is live on server
 **Thoughts:** The site is live on https://b2w.ggeorgiou.work/ . There some some bugs that must be fixed in order to be a complete website.
 **Link to work:** [Repository Bootstrap2WordPress](https://github.com/glgeorgiou/bootstrap2wordpress)
+
+
+### Day 21: June 15, 2018
+**Today's Progress**: Playing with a WordPress theme from scratch
+**Thoughts:** Trying to go deeper in WordPress theme development. This theme is from scratch.
+**Link to work:** [Repository of the test WordPress Theme](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/mytheme)
