@@ -113,3 +113,8 @@
 **Today's Progress**: Playing with a WordPress theme from scratch
 **Thoughts:** Trying to go deeper in WordPress theme development. This theme is from scratch.
 **Link to work:** [Repository of the test WordPress Theme](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/mytheme)
+
+### Day 22: June 18, 2018
+**Today's Progress**: Playing with a WordPress theme from scratch
+**Thoughts:** The WordPress theme is ready with a sidebar and menu.
+**Link to work:** [Repository of the test WordPress Theme](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/mytheme)
