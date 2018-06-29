@@ -118,3 +118,9 @@
 **Today's Progress**: Playing with a WordPress theme from scratch
 **Thoughts:** The WordPress theme is ready with a sidebar and menu.
 **Link to work:** [Repository of the test WordPress Theme](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/mytheme)
+
+
+### Day 23: June 29, 2018
+**Today's Progress**: Starting challenges and projects from FreeCodeCamp.org
+**Thoughts:** Unfortunatelly i could not recover my account and progress from freecodecamp.com which moved to freecodecamp.org. Therefore, i have to re-doing quickly the past challenges in order to reach the 'basic algorithm scripting' in JavaScript.
+**Link to work:** [New Folders for HTML and CSS](https://github.com/glgeorgiou/100-days-of-code-projects)
