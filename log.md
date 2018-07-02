@@ -124,3 +124,8 @@
 **Today's Progress**: Starting challenges and projects from FreeCodeCamp.org
 **Thoughts:** Unfortunatelly i could not recover my account and progress from freecodecamp.com which moved to freecodecamp.org. Therefore, i have to re-doing quickly the past challenges in order to reach the 'basic algorithm scripting' in JavaScript.
 **Link to work:** [New Folders for HTML and CSS](https://github.com/glgeorgiou/100-days-of-code-projects)
+
+### Day 24: July 2, 2018
+**Today's Progress**: Continuing challenges about visual design in FreeCodeCamp.org
+**Thoughts:** Fortunatelly my account get recovered and therefore, i just have to resolve only those challenges that did not exist in freecodecamp.com.
+**Link to work:** [New Folders for HTML and CSS](https://github.com/glgeorgiou/100-days-of-code-projects)
