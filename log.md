@@ -129,3 +129,8 @@
 **Today's Progress**: Continuing challenges about visual design in FreeCodeCamp.org
 **Thoughts:** Fortunatelly my account get recovered and therefore, i just have to resolve only those challenges that did not exist in freecodecamp.com.
 **Link to work:** [New Folders for HTML and CSS](https://github.com/glgeorgiou/100-days-of-code-projects)
+
+### Day 25: July 3, 2018
+**Today's Progress**: Continuing challenges about visual design in FreeCodeCamp.org
+**Thoughts:** Dealing with Positioning, Floats and colors.
+**Link to work:** [New Folders for HTML and CSS](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/1.3.Applied-Visual-Design)
