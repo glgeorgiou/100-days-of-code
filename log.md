@@ -134,3 +134,8 @@
 **Today's Progress**: Continuing challenges about visual design in FreeCodeCamp.org
 **Thoughts:** Dealing with Positioning, Floats and colors.
 **Link to work:** [New Folders for HTML and CSS](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/1.3.Applied-Visual-Design)
+
+### Day 25: July 3, 2018
+**Today's Progress**: Playing with the css transform property.
+**Thoughts:** Making css effects.
+**Link to work:** [Applied visual design files](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/1.3.Applied-Visual-Design)
