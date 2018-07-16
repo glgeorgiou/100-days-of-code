@@ -154,3 +154,9 @@
 **Today's Progress**: End of playing with the css animation properties.
 **Thoughts:** Making css animated effects.
 **Link to work:** [Applied visual design files](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/1.3.Applied-Visual-Design)
+
+
+### Day 30: July 16, 2018
+**Today's Progress**: Accessibility topics with css.
+**Thoughts:** How to make web pages accessible
+**Link to work:** [Applied visual design files](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/1.4.Applied-Accessibility)
