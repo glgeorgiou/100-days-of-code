@@ -160,3 +160,8 @@
 **Today's Progress**: Accessibility topics with css.
 **Thoughts:** How to make web pages accessible
 **Link to work:** [Applied visual design files](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/1.4.Applied-Accessibility)
+
+### Day 31 July 242018
+**Today's Progress**: Final for Accessibility and Media queries topics with css.
+**Thoughts:** How to make web pages accessible
+**Link to work:** [Applied visual design files](https://github.com/glgeorgiou/100-days-of-code-projects)
