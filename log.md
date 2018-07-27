@@ -161,7 +161,12 @@
 **Thoughts:** How to make web pages accessible
 **Link to work:** [Applied visual design files](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/1.4.Applied-Accessibility)
 
-### Day 31 July 242018
+### Day 31 July 24 2018
 **Today's Progress**: Final for Accessibility and Media queries topics with css.
 **Thoughts:** How to make web pages accessible
 **Link to work:** [Applied visual design files](https://github.com/glgeorgiou/100-days-of-code-projects)
+
+### Day 32 July 27 2018
+**Today's Progress**: A custom file to make experiments on animation timing function values.
+**Thoughts:** We are at the end of July and vacations time is comming. Therefore, i'll continue at the end of the August.
+**Link to work:** [Applied visual design files](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/1.3.Applied-Visual-Design)
