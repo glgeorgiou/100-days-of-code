@@ -170,3 +170,8 @@
 **Today's Progress**: A custom file to make experiments on animation timing function values.
 **Thoughts:** We are at the end of July and vacations time is comming. Therefore, i'll continue at the end of the August.
 **Link to work:** [Applied visual design files](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/1.3.Applied-Visual-Design)
+
+### Day 33 October 11 2018
+**Today's Progress**: Back to Free Code Camp.
+**Thoughts:** After a long time be back to continue in Free Code Camp projects as well as in WordPress themes occasionaly.
+**Link to work:** [Playing with CSS](https://github.com/glgeorgiou/100-days-of-code-projects)
