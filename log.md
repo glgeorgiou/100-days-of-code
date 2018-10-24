@@ -175,3 +175,8 @@
 **Today's Progress**: Back to Free Code Camp.
 **Thoughts:** After a long time be back to continue in Free Code Camp projects as well as in WordPress themes occasionaly.
 **Link to work:** [Playing with CSS](https://github.com/glgeorgiou/100-days-of-code-projects)
+
+### Day 34 October 24 2018
+**Today's Progress**: Flex CSS Property.
+**Thoughts:** Examining the flex CSS properties.
+**Link to work:** [Playing with CSS](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/1.6.Flexbox)
