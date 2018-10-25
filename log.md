@@ -180,3 +180,8 @@
 **Today's Progress**: Flex CSS Property.
 **Thoughts:** Examining the flex CSS properties.
 **Link to work:** [Playing with CSS](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/1.6.Flexbox)
+
+### Day 35 October 25 2018
+**Today's Progress**: Grid CSS Property 1/2.
+**Thoughts:** Examining the Grid CSS properties.
+**Link to work:** [Playing with CSS](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/1.7.Grid)
