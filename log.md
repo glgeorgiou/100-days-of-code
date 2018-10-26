@@ -185,3 +185,9 @@
 **Today's Progress**: Grid CSS Property 1/2.
 **Thoughts:** Examining the Grid CSS properties.
 **Link to work:** [Playing with CSS](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/1.7.Grid)
+
+
+### Day 36 October 26 2018
+**Today's Progress**: Grid CSS Property 2/2.
+**Thoughts:** Examining the Grid CSS properties.
+**Link to work:** [Playing with CSS](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/1.7.Grid)
