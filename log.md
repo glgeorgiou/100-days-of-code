@@ -191,3 +191,8 @@
 **Today's Progress**: Grid CSS Property 2/2.
 **Thoughts:** Examining the Grid CSS properties.
 **Link to work:** [Playing with CSS](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/1.7.Grid)
+
+### Day 37 November 01 2018
+**Today's Progress**: Project: A survey form.
+**Thoughts:** Building a responsive web design project..
+**Link to work:** [Project: A survey form](https://github.com/glgeorgiou/100-days-of-code-projects/)
