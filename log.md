@@ -202,3 +202,8 @@
 **Today's Progress**: Project: A survey form.
 **Thoughts:** Building a responsive web design project. The project is ready.
 **Link to work:** [Project: A survey form](https://codepen.io/glgeorgiou/full/ZmzraK/)
+
+### Day 39 November 05 2018
+**Today's Progress**: Project: A product page.
+**Thoughts:** Building a responsive web design project that is, a product page.
+**Link to work:** [Project: A product page](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Responsive%20Web%20Design%20Projects/product-page)
