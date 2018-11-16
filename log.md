@@ -207,3 +207,9 @@
 **Today's Progress**: Project: A product page.
 **Thoughts:** Building a responsive web design project that is, a product page.
 **Link to work:** [Project: A product page](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Responsive%20Web%20Design%20Projects/product-page)
+
+
+### Day 40 November 16 2018
+**Today's Progress**: Project: A complete product page.
+**Thoughts:** End of FreeCodeCamp project.
+**Link to work:** [Project: A landing product page](https://codepen.io/glgeorgiou/full/aQwQGV/)
