@@ -208,8 +208,12 @@
 **Thoughts:** Building a responsive web design project that is, a product page.
 **Link to work:** [Project: A product page](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Responsive%20Web%20Design%20Projects/product-page)
 
-
 ### Day 40 November 16 2018
 **Today's Progress**: Project: A complete product page.
 **Thoughts:** End of FreeCodeCamp project.
 **Link to work:** [Project: A landing product page](https://codepen.io/glgeorgiou/full/aQwQGV/)
+
+### Day 41 November 27 2018
+**Today's Progress**: Project: Techical Documentation Page.
+**Thoughts:** A technical documentation page about Python.
+**Link to work:** [Project: Technical Documentation Page](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Responsive%20Web%20Design%20Projects/Technical%20Documentaion%20Page)
