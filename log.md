@@ -217,3 +217,9 @@
 **Today's Progress**: Project: Techical Documentation Page.
 **Thoughts:** A technical documentation page about Python.
 **Link to work:** [Project: Technical Documentation Page](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Responsive%20Web%20Design%20Projects/Technical%20Documentaion%20Page)
+
+
+### Day 42 November 28 2018
+**Today's Progress**: Project: Techical Documentation Page.
+**Thoughts:** A technical documentation page about Python. Converting to a grid system for practice
+**Link to work:** [Project: Technical Documentation Page](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Responsive%20Web%20Design%20Projects/Technical%20Documentaion%20Page)
