@@ -218,7 +218,6 @@
 **Thoughts:** A technical documentation page about Python.
 **Link to work:** [Project: Technical Documentation Page](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Responsive%20Web%20Design%20Projects/Technical%20Documentaion%20Page)
 
-
 ### Day 42 November 28 2018
 **Today's Progress**: Project: Techical Documentation Page.
 **Thoughts:** A technical documentation page about Python. Converting to a grid system for practice
@@ -229,5 +228,7 @@
 **Thoughts:** A technical documentation page about Python. Almost complete.
 **Link to work:** [Project: Technical Documentation Page](https://codepen.io/glgeorgiou/pen/MzqYoO)
 
-
-https://codepen.io/glgeorgiou/pen/MzqYoO
+### Day 44 December 5 2018
+**Today's Progress**: Project: Techical Documentation Page.
+**Thoughts:** The technical documentation page about Python is completed. The responsive portfolio projects have finished.  I'll continue with the rest of JavaScript.
+**Link to work:** [Project: Technical Documentation Page](https://codepen.io/glgeorgiou/pen/MzqYoO)
