@@ -232,3 +232,8 @@
 **Today's Progress**: Project: Techical Documentation Page.
 **Thoughts:** The technical documentation page about Python is completed. The responsive portfolio projects have finished.  I'll continue with the rest of JavaScript.
 **Link to work:** [Project: Technical Documentation Page](https://codepen.io/glgeorgiou/pen/MzqYoO)
+
+### Day 45 December 6 2018
+**Today's Progress**: A quick review in basic javascript.
+**Thoughts:** Come back to JavaScript and having a quick review. Continuing in ES6.
+**Link to work:** [JavaScript Certification --> Basic JavaScript](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%20Algorithms%20And%20Data%20Structures%20Certification/1.Basic%20JavaScript)
