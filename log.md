@@ -237,3 +237,8 @@
 **Today's Progress**: A quick review in basic javascript.
 **Thoughts:** Come back to JavaScript and having a quick review. Continuing in ES6.
 **Link to work:** [JavaScript Certification --> Basic JavaScript](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%20Algorithms%20And%20Data%20Structures%20Certification/1.Basic%20JavaScript)
+
+### Day 46 January 11 2019
+**Today's Progress**: Starting ES6.
+**Thoughts:** Continuing in ES6.
+**Link to work:** [JavaScript Certification --> Basic JavaScript](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%20Algorithms%20And%20Data%20Structures%20Certification/2.ES6)
