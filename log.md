@@ -247,3 +247,10 @@
 **Today's Progress**: ES6 chapter has finished.
 **Thoughts:** Continuing in Reqular Expressions. New commit will be uploaded after the completion of the chapter.
 **Link to work:** [JavaScript Certification --> Basic JavaScript](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%20Algorithms%20And%20Data%20Structures%20Certification/2.ES6)
+
+
+### Day 48 February 22 2019
+**Today's Progress**: Regular expressions chapter has finished
+**Thoughts:** Chater of regular expressions is completed
+**Link to work:** [JavaScript Certification --> Basic JavaScript](
+https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%20Algorithms%20And%20Data%20Structures%20Certification/3.Reqular%20Expressions)
