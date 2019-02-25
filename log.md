@@ -254,3 +254,9 @@
 **Thoughts:** Chater of regular expressions is completed
 **Link to work:** [JavaScript Certification --> Basic JavaScript](
 https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%20Algorithms%20And%20Data%20Structures%20Certification/3.Reqular%20Expressions)
+
+
+### Day 49 February 25 2019
+**Today's Progress**: Debuginhg using JavaScript
+**Thoughts:** A quick reference on debuging with JS.
+**Link to work:** [JavaScript Certification --> Basic JavaScript](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%20Algorithms%20And%20Data%20Structures%20Certification/4.Debugging)
