@@ -263,7 +263,7 @@ https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%2
 
 
 ### Day 50 March 15 2019
-**Today's Progress**: Ending Algorithm and Structures
-**Thoughts:** A quick reference on debuging with JS.
+**Today's Progress**: Ending Javascript and Structures
+**Thoughts:** One step before starting algorithms in JS. Actualy, most of them i have done them. So, i'll start finishing the rest.
 **Link to work:** [JavaScript Certification --> Basic JavaScript](
 https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%20Algorithms%20And%20Data%20Structures%20Certification/5.Basic%20Data%20Structure)
