@@ -278,3 +278,8 @@ https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%2
 **Today's Progress**: Ending JavaScript Object Oriented Programming.
 **Thoughts:** OOP in JS has ended. Continue to complete the functional programming in JS.
 **Link to work:** [JavaScript Certification --> Basic JavaScript](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%20Algorithms%20And%20Data%20Structures%20Certification/7.object-oriented-programming)
+
+### Day 53 April 9 2019
+**Today's Progress**: Ending JavaScript Functional Programming.
+**Thoughts:** Functional programming in JS has ended. Continue in Intermediate Algorithm Scripting.
+**Link to work:** [JavaScript Certification --> Basic JavaScript](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%20Algorithms%20And%20Data%20Structures%20Certification/8.functional-programming)
