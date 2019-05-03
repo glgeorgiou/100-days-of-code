@@ -283,3 +283,8 @@ https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%2
 **Today's Progress**: Ending JavaScript Functional Programming.
 **Thoughts:** Functional programming in JS has ended. Continue in Intermediate Algorithm Scripting.
 **Link to work:** [JavaScript Certification --> Basic JavaScript](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%20Algorithms%20And%20Data%20Structures%20Certification/8.functional-programming)
+
+### Day 54 May 3 2019
+**Today's Progress**: Ending JavaScript Intermediate Algorithm Scripting.
+**Thoughts:** Intermediate Algorithm Scripting in JS has ended. Continue in JS Data Structure Projects.
+**Link to work:** [JavaScript Certification --> Basic JavaScript](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%20Algorithms%20And%20Data%20Structures%20Certification/9.Intermediate%20Algorithm%20Scripting)
