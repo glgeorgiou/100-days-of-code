@@ -288,3 +288,8 @@ https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%2
 **Today's Progress**: Ending JavaScript Intermediate Algorithm Scripting.
 **Thoughts:** Intermediate Algorithm Scripting in JS has ended. Continue in JS Data Structure Projects.
 **Link to work:** [JavaScript Certification --> Basic JavaScript](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%20Algorithms%20And%20Data%20Structures%20Certification/9.Intermediate%20Algorithm%20Scripting)
+
+### Day 55 May 9 2019
+**Today's Progress**: Ending of JavaScript Intermediate Algorithm Scripting.
+**Thoughts:** Intermediate Algorithm Scripting in JS has ended. Now is timing to practice more in common JS functions on my own. Afterwards i'll continue to front-end libraries by doing a quick review on boostrap and jquery.
+**Link to work:** [JavaScript Certification --> Intermediate Algorithm Scripting](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%20Algorithms%20And%20Data%20Structures%20Certification/9.Intermediate%20Algorithm%20Scripting)
