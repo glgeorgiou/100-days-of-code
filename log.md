@@ -293,3 +293,8 @@ https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%2
 **Today's Progress**: Ending of JavaScript Intermediate Algorithm Scripting.
 **Thoughts:** Intermediate Algorithm Scripting in JS has ended. Now is timing to practice more in common JS functions on my own. Afterwards i'll continue to front-end libraries by doing a quick review on boostrap and jquery.
 **Link to work:** [JavaScript Certification --> Intermediate Algorithm Scripting](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%20Algorithms%20And%20Data%20Structures%20Certification/9.Intermediate%20Algorithm%20Scripting)
+
+### Day 56 May 17 2019
+**Today's Progress**: Front-end libraries - Bootstrap.
+**Thoughts:** A quick walk arround the Bootstrap library, versions 4 and 3.2.
+**Link to work:** [Front-end Libraries --> Bootstrap](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Front%20End%20Libraries%20Certification/1.Intro%20to%20Bootstrap)
