@@ -298,3 +298,8 @@ https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%2
 **Today's Progress**: Front-end libraries - Bootstrap.
 **Thoughts:** A quick walk arround the Bootstrap library, versions 4 and 3.2.
 **Link to work:** [Front-end Libraries --> Bootstrap](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Front%20End%20Libraries%20Certification/1.Intro%20to%20Bootstrap)
+
+### Day 57 May 22 2019
+**Today's Progress**: Front-end libraries - jQuery.
+**Thoughts:** A quick walk arround the jQuery library.
+**Link to work:** [Front-end Libraries --> jQuery](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Front%20End%20Libraries%20Certification/2.Introduction%20to%20jQuery)
