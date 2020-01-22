@@ -308,3 +308,9 @@ https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%2
 **Today's Progress**: Front-end libraries - SASS.
 **Thoughts:** Getting know SASS.
 **Link to work:** [Front-end Libraries --> SASS](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Front%20End%20Libraries%20Certification)
+
+
+### Day 59 May 24 2019
+**Today's Progress**: Few new challenges.
+**Thoughts:** After few months due to FreeCodeCamp technical issues, i'll continue to use these challenges in order to complete the 100 days of code.
+**Link to work:** [Few new challenges --> SASS](https://github.com/glgeorgiou/100-days-of-code-projects/commits/master)
