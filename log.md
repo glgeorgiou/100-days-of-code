@@ -314,3 +314,10 @@ https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%2
 **Today's Progress**: Few new challenges.
 **Thoughts:** After few months due to FreeCodeCamp technical issues, i'll continue to use these challenges in order to complete the 100 days of code.
 **Link to work:** [Few new challenges --> SASS](https://github.com/glgeorgiou/100-days-of-code-projects/commits/master)
+
+
+### Day 60 April 10 2020
+**Today's Progress**: JavaScript Challenges.
+**Thoughts:** Dealing with JavaScript challenges in intermediate level.
+**Link to work:** [Intermediate JavaScript Challenges](
+https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%20Algorithms%20And%20Data%20Structures%20Certification/Testing%20Javascript)
