@@ -328,3 +328,10 @@ https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%2
 **Thoughts:** Dealing with JavaScript challenges in intermediate level.
 **Link to work:** [Intermediate JavaScript Challenges - array.reduce](
 https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%20Algorithms%20And%20Data%20Structures%20Certification/Testing%20Javascript)
+
+
+### Day 62 April 14 2020
+**Today's Progress**: JavaScript Challenges on DOM.
+**Thoughts:** Dealing with JavaScript challenges on DOM changes in intermediate level.
+**Link to work:** [Intermediate JavaScript Challenges - DOM changes](
+https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/DOM%20Testing)
