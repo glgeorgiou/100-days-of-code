@@ -335,3 +335,10 @@ https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%2
 **Thoughts:** Dealing with JavaScript challenges on DOM changes in intermediate level.
 **Link to work:** [Intermediate JavaScript Challenges - DOM changes](
 https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/DOM%20Testing)
+
+
+### Day 63 April 22 2020
+**Today's Progress**: 30 JavaScript Challenges - Day 1 - drum kit.
+**Thoughts:** After FreeCodeCamp i continue on 30 days of JavaScript challenges.
+**Link to work:** [30 days of JavaScript challenges](
+https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/javascript-30-days/c1-js-drum-kit)
