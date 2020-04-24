@@ -348,3 +348,8 @@ https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/javascript-3
 **Today's Progress**: 30 JavaScript Challenges - Day 2 - An analog clock.
 **Thoughts:** An analog clock.
 **Link to work:** [30 days of JavaScript challenges](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%2030%20Days/Day2%20Clock)
+
+### Day 65 April 24 2020
+**Today's Progress**: 30 JavaScript Challenges - Day 3 - Css variables and scope.
+**Thoughts:** How to use css variables to update css properties in a dynamic way.
+**Link to work:** [Day 3 challenge](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%2030%20Days/Day3%20CSS%20vars)
