@@ -353,3 +353,9 @@ https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/javascript-3
 **Today's Progress**: 30 JavaScript Challenges - Day 3 - Css variables and scope.
 **Thoughts:** How to use css variables to update css properties in a dynamic way.
 **Link to work:** [Day 3 challenge](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%2030%20Days/Day3%20CSS%20vars)
+
+
+### Day 66 April 27 2020
+**Today's Progress**: 30 JavaScript Challenges - Day 4 - cardio array.
+**Thoughts:** Dealing with array methods.
+**Link to work:** [Day 4 challenge](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%2030%20Days/Day4%20Array%20cardio)
