@@ -359,3 +359,9 @@ https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/javascript-3
 **Today's Progress**: 30 JavaScript Challenges - Day 4 - cardio array.
 **Thoughts:** Dealing with array methods.
 **Link to work:** [Day 4 challenge](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%2030%20Days/Day4%20Array%20cardio)
+
+
+### Day 67 April 28 2020
+**Today's Progress**: 30 JavaScript Challenges - Day 5 - A flex gallery.
+**Thoughts:** A gallery of image using flex properties.
+**Link to work:** [Day 5 challenge](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%2030%20Days/Day5-Flex-panel-gallery)
