@@ -340,30 +340,35 @@ https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/DOM%20Testin
 ### Day 63 April 22 2020
 **Today's Progress**: 30 JavaScript Challenges - Day 1 - drum kit.
 **Thoughts:** After FreeCodeCamp i continue on 30 days of JavaScript challenges.
-**Link to work:** [30 days of JavaScript challenges](
+**Link to work:** [JS30 - 30 days of JavaScript challenges](
 https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/javascript-30-days/c1-js-drum-kit)
 
 ### Day 64 April 23 2020
 **Today's Progress**: 30 JavaScript Challenges - Day 2 - An analog clock.
 **Thoughts:** An analog clock.
-**Link to work:** [30 days of JavaScript challenges](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%2030%20Days/Day2%20Clock)
+**Link to work:** [JS30 - 30 days of JavaScript challenges](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%2030%20Days/Day2%20Clock)
 
 ### Day 65 April 24 2020
 **Today's Progress**: 30 JavaScript Challenges - Day 3 - Css variables and scope.
 **Thoughts:** How to use css variables to update css properties in a dynamic way.
-**Link to work:** [Day 3 challenge](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%2030%20Days/Day3%20CSS%20vars)
+**Link to work:** [JS30 - Day 3 challenge](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%2030%20Days/Day3%20CSS%20vars)
 
 ### Day 66 April 27 2020
 **Today's Progress**: 30 JavaScript Challenges - Day 4 - cardio array.
 **Thoughts:** Dealing with array methods.
-**Link to work:** [Day 4 challenge](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%2030%20Days/Day4%20Array%20cardio)
+**Link to work:** [JS30 - Day 4 challenge](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%2030%20Days/Day4%20Array%20cardio)
 
 ### Day 67 April 28 2020
 **Today's Progress**: 30 JavaScript Challenges - Day 5 - A flex gallery.
 **Thoughts:** A gallery of image using flex properties.
-**Link to work:** [Day 5 challenge](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%2030%20Days/Day5-Flex-panel-gallery)
+**Link to work:** [JS30 - Day 5 challenge](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%2030%20Days/Day5-Flex-panel-gallery)
 
 ### Day 68 April 29 2020
 **Today's Progress**: 30 JavaScript Challenges - Day 6 - Type ahead.
 **Thoughts:** A list of USA cities diplayed dynamically by typing into a search box.
-**Link to work:** [Day 6 challenge](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%2030%20Days/Day6%20Type%20Ahead)
+**Link to work:** [JS30 - Day 6 challenge](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%2030%20Days/Day6%20Type%20Ahead)
+
+### Day 69 May 6 2020
+**Today's Progress**: 30 JavaScript Challenges - Day 7 - Cardio Array.
+**Thoughts:** A list of usefull array methods.
+**Link to work:** [JS30 - Day 7 challenge](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%2030%20Days/Day7%20Cardio%20array2)
