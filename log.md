@@ -372,3 +372,8 @@ https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/javascript-3
 **Today's Progress**: 30 JavaScript Challenges - Day 7 - Cardio Array.
 **Thoughts:** A list of usefull array methods.
 **Link to work:** [JS30 - Day 7 challenge](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%2030%20Days/Day7%20Cardio%20array2)
+
+### Day 70 May 7 2020
+**Today's Progress**: 30 JavaScript Challenges - Day 8 - HTML funny canvas.
+**Thoughts:** Drawing on a HTML funny canvas.
+**Link to work:** [JS30 - Day 8 challenge](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%2030%20Days/Day8%20HTML5%20canvas)
