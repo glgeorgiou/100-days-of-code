@@ -377,3 +377,8 @@ https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/javascript-3
 **Today's Progress**: 30 JavaScript Challenges - Day 8 - HTML funny canvas.
 **Thoughts:** Drawing on a HTML funny canvas.
 **Link to work:** [JS30 - Day 8 challenge](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%2030%20Days/Day8%20HTML5%20canvas)
+
+### Day 71 May 8 2020
+**Today's Progress**: 30 JavaScript Challenges - Day 9 Dev Tools tips.
+**Thoughts:** Developer tools tips.
+**Link to work:** [JS30 - Day 9 challenge](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%2030%20Days/Day9%20DevTools)
