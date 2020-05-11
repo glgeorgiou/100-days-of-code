@@ -382,3 +382,8 @@ https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/javascript-3
 **Today's Progress**: 30 JavaScript Challenges - Day 9 Dev Tools tips.
 **Thoughts:** Developer tools tips.
 **Link to work:** [JS30 - Day 9 challenge](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%2030%20Days/Day9%20DevTools)
+
+### Day 72 May 11 2020
+**Today's Progress**: 30 JavaScript Challenges - Day 10 - Select multiple checkboxes by holding shift key.
+**Thoughts:** Select multiple checkboxes by holding shift key.
+**Link to work:** [JS30 - Day 10 challenge](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%2030%20Days/Day10%20Multi-check-boxes)
