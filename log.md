@@ -387,3 +387,8 @@ https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/javascript-3
 **Today's Progress**: 30 JavaScript Challenges - Day 10 - Select multiple checkboxes by holding shift key.
 **Thoughts:** Select multiple checkboxes by holding shift key.
 **Link to work:** [JS30 - Day 10 challenge](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%2030%20Days/Day10%20Multi-check-boxes)
+
+### Day 73 May 12 2020
+**Today's Progress**: 30 JavaScript Challenges - Day 11 - A custom video player.
+**Thoughts:** A little tricky video player.
+**Link to work:** [JS30 - Day 11 challenge](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%2030%20Days/Day11%20Custom%20video%20player)
