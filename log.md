@@ -392,3 +392,8 @@ https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/javascript-3
 **Today's Progress**: 30 JavaScript Challenges - Day 11 - A custom video player.
 **Thoughts:** A little tricky video player.
 **Link to work:** [JS30 - Day 11 challenge](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%2030%20Days/Day11%20Custom%20video%20player)
+
+### Day 74 May 14 2020
+**Today's Progress**: 30 JavaScript Challenges - Day 12 - A key sequence detection.
+**Thoughts:** Detect the user's keys from keyboard. If a password is passed, then something appears on the web page.
+**Link to work:** [JS30 - Day 12 challenge](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%2030%20Days/Day12%20Key%20sequence%20detection)
