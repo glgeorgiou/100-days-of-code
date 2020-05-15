@@ -393,7 +393,7 @@ https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/javascript-3
 **Thoughts:** A little tricky video player.
 **Link to work:** [JS30 - Day 11 challenge](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%2030%20Days/Day11%20Custom%20video%20player)
 
-### Day 74 May 14 2020
-**Today's Progress**: 30 JavaScript Challenges - Day 12 - A key sequence detection.
-**Thoughts:** Detect the user's keys from keyboard. If a password is passed, then something appears on the web page.
-**Link to work:** [JS30 - Day 12 challenge](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%2030%20Days/Day12%20Key%20sequence%20detection)
+### Day 74 May 15 2020
+**Today's Progress**: 30 JavaScript Challenges - Day 13 - Slide in on scrol.
+**Thoughts:** Images are slide in on scroll when user view them and out then user continues to scroll.
+**Link to work:** [JS30 - Day 13 challenge](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%2030%20Days/Day%2013%20Slide%20in%20on%20scroll)
