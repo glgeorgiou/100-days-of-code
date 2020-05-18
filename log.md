@@ -397,3 +397,8 @@ https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/javascript-3
 **Today's Progress**: 30 JavaScript Challenges - Day 13 - Slide in on scrol.
 **Thoughts:** Images are slide in on scroll when user view them and out then user continues to scroll.
 **Link to work:** [JS30 - Day 13 challenge](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%2030%20Days/Day%2013%20Slide%20in%20on%20scroll)
+
+### Day 75 May 18 2020
+**Today's Progress**: 30 JavaScript Challenges - Day 14 - Reference vs Copy array and objects.
+**Thoughts:** Copy and reference of arrays and objects.
+**Link to work:** [JS30 - Day 14 challenge](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%2030%20Days/Day14%20JS%20references%20vs%20Copy)
