@@ -402,3 +402,8 @@ https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/javascript-3
 **Today's Progress**: 30 JavaScript Challenges - Day 14 - Reference vs Copy array and objects.
 **Thoughts:** Copy and reference of arrays and objects.
 **Link to work:** [JS30 - Day 14 challenge](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%2030%20Days/Day14%20JS%20references%20vs%20Copy)
+
+### Day 76 May 20 2020
+**Today's Progress**: 30 JavaScript Challenges - Day 15 - Local storage.
+**Thoughts:** How to use the localStorage variable to store values on it using JS.
+**Link to work:** [JS30 - Day 15 challenge](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%2030%20Days/Day15%20Local%20Storage)
