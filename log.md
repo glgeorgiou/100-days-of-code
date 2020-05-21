@@ -407,3 +407,8 @@ https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/javascript-3
 **Today's Progress**: 30 JavaScript Challenges - Day 15 - Local storage.
 **Thoughts:** How to use the localStorage variable to store values on it using JS.
 **Link to work:** [JS30 - Day 15 challenge](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%2030%20Days/Day15%20Local%20Storage)
+
+### Day 77 May 21 2020
+**Today's Progress**: 30 JavaScript Challenges - Day 16 - Mouse move shadow effect.
+**Thoughts:** Text multiple shadows dynamically created during the mouse hover.
+**Link to work:** [JS30 - Day 16 challenge](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%2030%20Days/Day16%20Mouse%20move%20shadow)
