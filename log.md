@@ -412,3 +412,8 @@ https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/javascript-3
 **Today's Progress**: 30 JavaScript Challenges - Day 16 - Mouse move shadow effect.
 **Thoughts:** Text multiple shadows dynamically created during the mouse hover.
 **Link to work:** [JS30 - Day 16 challenge](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%2030%20Days/Day16%20Mouse%20move%20shadow)
+
+### Day 78 September 29 2020
+**Today's Progress**: 30 JavaScript Challenges - Day 1 - Drumkit in Grid mode.
+**Thoughts:** Text multiple shadows dynamically created during the mouse hover.
+**Link to work:** [JS30 - Day 1 challenge](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%2030%20Days/Day1%20Drum%20kit)
