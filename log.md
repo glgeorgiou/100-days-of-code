@@ -417,3 +417,8 @@ https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/javascript-3
 **Today's Progress**: 30 JavaScript Challenges - Day 1 - Drumkit in Grid mode.
 **Thoughts:** Text multiple shadows dynamically created during the mouse hover.
 **Link to work:** [JS30 - Day 1 challenge](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Javascript%2030%20Days/Day1%20Drum%20kit)
+
+### Day 79 October 29 2020
+**Today's Progress**: Scrimba Challenges - Validate a subscription form.
+**Thoughts:** Using javascript to validate the email imput of a subscription form.
+**Link to work:** [Scrimba challenge](https://github.com/glgeorgiou/100-days-of-code-projects/tree/master/Scriba%20Challenges/Subscription%20Form)
